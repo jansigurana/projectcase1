@@ -1,0 +1,14 @@
+.app-li {
+  width: 20%;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.pic {
+  height: 150px;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.para {
+  font-family: 'Roboto';
+}
